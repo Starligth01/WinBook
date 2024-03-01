@@ -1,0 +1,2 @@
+git config --global user.name Starlight01
+git config --global user.email emanuelapurcino@gmail.com
